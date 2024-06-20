@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Kartikeya Bishnoi</h1>
 <h3 align="center">A Cloud Computing and Web Development enthusiast</h3>
 
+- Intern @ ISRO <img align="center" src="https://ih1.redbubble.net/image.2582420953.8132/st,small,507x507-pad,600x600,f8f8f8.webp" alt="[isro-logo]" height="30" width="40" />
+
 - I'm fond of competitive programming in **Java**
 
 - 🌱 I’m currently learning **Spring Framework, Frontend Development**
 
 - 📫 How to reach me **kartikeyabishnoi@gmail.com**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
